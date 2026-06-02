@@ -98,7 +98,7 @@ if (IFilePtr dlcFile = vfs->OpenFile(FileInfo("/dlc/file2.txt"), IFile::FileMode
 
 - Add vfspp as submodule to your project
 ```bash
-git submodule add https://github.com/nextgeniuspro/vfspp.git vendor/vfspp
+git submodule add https://github.com/glloydNAT/vfspp.git vendor/vfspp
 ```
 - Update submodules to download dependencies
 ```bash
